@@ -1,11 +1,11 @@
-🚀 Customer Churn Prediction | Machine Learning Project
-📌 Overview
+# Customer Churn Prediction | Machine Learning Project
+# Overview
 
 Customer churn significantly impacts revenue in subscription-based businesses. Retaining existing customers is far more cost-effective than acquiring new ones.
 
 This project develops a Machine Learning classification model to predict customer churn using behavioral and account-related features. The objective is to help businesses proactively identify high-risk customers and reduce churn rates through targeted retention strategies.
 
-🎯 Business Problem
+# Business Problem
 
 Companies often lose customers due to:
 
@@ -24,7 +24,7 @@ By predicting churn in advance, businesses can:
 ✔ Reduce revenue loss
 ✔ Optimize marketing strategies
 
-📊 Dataset Description
+# Dataset Description
 
 Target Variable: Churn (Yes = 1, No = 0)
 
@@ -45,7 +45,7 @@ Monthly & total charges
 Tenure
 
 
-⚙️ Tech Stack
+# Tech Stack
 
 Programming Language: Python
 
@@ -56,8 +56,8 @@ Visualization: Matplotlib, Seaborn
 Machine Learning: Scikit-learn
 
 
-🔎 Project Workflow
-1️⃣ Data Cleaning & Preprocessing
+# Project Workflow
+# Data Cleaning & Preprocessing
 
 Handled missing values
 
@@ -67,7 +67,7 @@ Feature scaling using StandardScaler
 
 Removed irrelevant columns
 
-2️⃣ Exploratory Data Analysis (EDA)
+# Exploratory Data Analysis (EDA)
 
 Churn distribution analysis
 
@@ -77,7 +77,7 @@ Monthly charges impact analysis
 
 Correlation heatmap
 
-3️⃣ Feature Engineering
+# Feature Engineering
 
 Binary encoding of target variable
 
@@ -85,7 +85,7 @@ Derived meaningful insights from contract types
 
 Selected impactful predictors
 
-4️⃣ Model Building
+# Model Building
 
 Train-Test Split (80-20)
 
@@ -93,7 +93,7 @@ Logistic Regression
 
 Random Forest Classifier
 
-5️⃣ Model Evaluation
+# Model Evaluation
 
 Accuracy Score
 
@@ -101,14 +101,14 @@ Precision & Recall
 
 F1 Score
 
-📈 Model Performance
+# Model Performance
 Metric	Score
 Accuracy	0.78
 Precision	0-0.85, 1-0.62
 Recall	0-0.84, 1-0.62
 F1 Score	0-0.84, 1-0.62
 
-📌 Key Insights
+# Key Insights
 
 Month-to-month contracts have the highest churn rate.
 
