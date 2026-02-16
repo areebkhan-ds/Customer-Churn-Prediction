@@ -117,3 +117,8 @@ Customers with higher monthly charges are more likely to churn.
 Longer tenure significantly reduces churn probability.
 
 Electronic check payment method shows higher churn trends.
+
+# Author
+
+Areeb Khan – Data Science Enthusiast & Machine Learning Developer
+GitHub Profile
